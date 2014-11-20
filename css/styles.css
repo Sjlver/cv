@@ -1,0 +1,110 @@
+/** Fonts **/
+
+html {
+    font-family: Seravek;
+    font-weight: lighter;
+    font-size: 11pt;
+}
+
+strong, h3 {
+    font-weight: normal;
+}
+
+/** Elements **/
+
+@media screen {
+    body {
+        margin: 10mm;
+    }
+}
+
+/* Do not show the header that Pandoc introduces */
+header {
+    display: none;
+}
+
+/* Tables */
+table {
+    border-collapse: separate;
+    border-spacing: 0pt 3pt;
+}
+
+tr td:first-child {
+    border-right: solid 0.8pt black;
+}
+
+td {
+    padding: 0pt 3pt;
+}
+
+/* Contacts, photo, ... */
+#contacts {
+    position: relative;
+}
+
+#address {
+    width: 65mm;
+    float: left;
+}
+
+#on-the-net {
+    width: 65mm;
+    float: left;
+}
+
+#photo {
+    position: absolute;
+    right: 0mm;
+    top: -7mm;
+    width: 20mm;
+}
+
+#photo img {
+    width: 100%;
+}
+
+#photo figure {
+    margin: 0;
+}
+
+#photo figcaption {
+    display: none;
+}
+
+.clearfix {
+    clear: both;
+}
+
+/* Lists */
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+/* Sections */
+section.level3 {
+    position: relative;
+}
+
+section.level3 a:first-child {
+    position: absolute;
+    top: 0;
+    right: 0;
+}
+
+h2, h3 {
+    margin-bottom: 0.2em;
+}
+
+h3 + p, h3 + ul {
+    margin-top: 0;
+}
+
+/* Links */
+a {
+    text-decoration: none;
+}
+
+a:visited, a:link {
+    color: #0000b9;
+}
