@@ -1,0 +1,15 @@
+InfoBegin
+InfoKey: Author
+InfoValue: Jonas Wagner
+InfoBegin
+InfoKey: Title
+InfoValue: Jonas Wagner’s Curriculum Vitae
+InfoBegin
+InfoKey: Subject
+InfoValue: Curriculum Vitae
+InfoBegin
+InfoKey: Producer
+InfoValue: Vim, Pandoc, Chrome, Quartz, ...
+InfoBegin
+InfoKey: Creator
+InfoValue:

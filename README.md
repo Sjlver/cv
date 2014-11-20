@@ -8,7 +8,8 @@ To build:
 - Install [Pandoc](http://johnmacfarlane.net/pandoc/)
 - `make`
 - `open cv.html`
-- Export as PDF
+- Export as PDF, and save as `cv.pdf`
+- `make cv_final.pdf`
 
 I've tested the process using Chrome on Mac. The result is quite satisfying;
 remaining problems are documented in [the issues](https://github.com/Sjlver/cv/issues).
