@@ -13,22 +13,25 @@ Jonas Wagner
 
 --------- ----------------------
   Address Jonas Wagner\
-          Rue du Centre 103\
-          1025 St-Sulpice
+          EPFL IC IIF DSLAB\
+          INN 321, Station 14\
+          1015 Lausanne\
+          Switzerland
 
-   Mobile +41 76 511 22 62
 --------- ----------------------
 
 </div>
 <div id="on-the-net">
 
-------- -----------------------------------------------------------------------
-  Links [people.epfl.ch/jonas.wagner](http://people.epfl.ch/jonas.wagner)\
-        [github.com/Sjlver](https://github.com/Sjlver)\
-        [codeforces.com/profile/Sjlver](http://codeforces.com/profile/Sjlver)
-
-  Email <jonas.wagner@epfl.ch>
-------- -----------------------------------------------------------------------
+-------- -----------------------------------------------------------------------
+   Links [people.epfl.ch/jonas.wagner](http://people.epfl.ch/jonas.wagner)\
+         [github.com/Sjlver](https://github.com/Sjlver)\
+         [codeforces.com/profile/Sjlver](http://codeforces.com/profile/Sjlver)
+ 
+   Email <jonas.wagner@epfl.ch>
+ 
+  Mobile +41 76 511 22 62
+-------- -----------------------------------------------------------------------
 
 </div>
 <div id="photo">
@@ -42,7 +45,7 @@ Jonas Wagner
 - **What distinguishes me:** The will to never stop learning
 
 
-Research interests
+Research Interests
 ------------------
 
 My mission is to create automated program analysis techniques that help
@@ -59,13 +62,13 @@ Education
 Dependable Systems Lab, EPFL, Lausanne\
 Under the direction of Prof. George Candea
 
-### 2008 – 2011: Master in communication systems
+### 2008 – 2011: Master EPFL in Communication Systems
 
 [ssc.epfl.ch/master](http://ssc.epfl.ch/master)
 Swiss Federal Institute of Technology (EPFL), Lausanne\
 Grade point average: 5.87 out of 6
 
-### 2005 – 2008: Bachelor in communication systems
+### 2005 – 2008: Bachelor EPFL in Communication Systems
 
 [ssc.epfl.ch/bachelor](http://ssc.epfl.ch/bachelor)
 Two years at EPFL, Lausanne, and one year at NTU, Singapore\
@@ -108,15 +111,16 @@ Open Systems.
 ### Feb. to Aug. 2009: Internship at MadeinLocal
 
 [www.madeinlocal.com](http://www.madeinlocal.com/)
-Web development using Ruby on Rails and JavaScript for MadeinLocal.com, the
-next generation local guide powered by social networking. In a dynamic start-up
-team, I assumed responsibility for developing business logic and connections to
+Web development for MadeinLocal.com, the next generation local guide powered by
+social networking. In a dynamic start-up team, I assumed responsibility for
+developing business logic in Ruby on Rails and JavaScript, and connections to
 external sites such as Facebook.
 
 ### June to Sept. 2008: Internship at Bucher+Suter
 
 [www.bucher-suter.com](http://www.bucher-suter.com/)
-Internship as a software developer at Bucher+Suter. Various projects using Java, C++ and PHP in a Cisco Contact Center environment.
+I worked as a software developer on various projects using Java, C++ and PHP in
+a Cisco Contact Center environment.
 
 Publications
 ------------
@@ -125,7 +129,7 @@ Publications
 
 [dslab.epfl.ch/proj/asap](http://dslab.epfl.ch/proj/asap)
 Jonas Wagner, Volodymyr Kuznetsov, Johannes Kinder, Azqa Nadeem, and George Candea\
-Poster presented at the 11^th^ USENIX Symposium on Operating Systems Design and Implementation (OSDI), 2014
+Poster presented at the 11^th^ USENIX Symposium on Operating Systems Design and Implementation (OSDI Poster), 2014
 
 ### <span style="font-variant: small-caps;">-Overify</span>: Optimizing Programs for Fast Verification
 
@@ -136,7 +140,7 @@ Jonas Wagner, Volodymyr Kuznetsov, and George Candea\
 Teaching
 --------
 
-### Teaching assistant
+### Teaching Assistant
 
 - **Software Engineering:** 2014, 2013, 2012
 - **Calculus:** 2014
@@ -144,7 +148,7 @@ Teaching
 - **Information Theory and Coding:** 2010
 - **Stochastic Models:** 2009
 
-### Project supervisor
+### Project Supervisor
 
 - **Summer@EPFL Internship** by Azqa Nadeem, 2014
 - **Moodle accessibility checker plugin.** 
@@ -155,7 +159,7 @@ Teaching
 Professional Service
 --------------------
 
-### External reviewer
+### External Reviewer
 
 - **OSDI:** USENIX Symposium on Operating Systems Design and Implementation, 2014
 - **EuroSys:**  European Conference on Computer Systems, 2014 and 2012
@@ -172,14 +176,14 @@ Miscellaneous
 - **French:** fluent (level B2)
 - **Spanish:** basic (level A2)
 
-### PolyProg: Organizing programming competitions
+### PolyProg: Organizing Programming Competitions
 
 [polyprog.epfl.ch](http://polyprog.epfl.ch/)
 I am a founding member of PolyProg, a student association at EPFL that promotes
 algorithmic and programming skills. I've contributed to the organization of
 numerous programming contests as well as related seminars and trainings.
 
-### Cevi: Scouting activities for kids
+### Cevi: Scouting Activities for Kids
 
 [ceviregionbern.ch](http://ceviregionbern.ch/)
 As leader of a scouting group, I organize activities for children in the nature

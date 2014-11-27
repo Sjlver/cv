@@ -59,6 +59,18 @@ td {
     width: 20mm;
 }
 
+.no-personal-details #photo {
+    display: none;
+}
+
+.no-personal-details #address {
+    width: 75mm;
+}
+
+.no-personal-details #on-the-net {
+    width: 75mm;
+}
+
 #photo img {
     width: 100%;
 }
@@ -73,6 +85,10 @@ td {
 
 .clearfix {
     clear: both;
+}
+
+.no-personal-details #personal-situation {
+    display: none;
 }
 
 /* Lists */
