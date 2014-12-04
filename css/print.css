@@ -1,7 +1,9 @@
 @page {
-    margin: 2cm;
+    margin: 1.6cm 2cm;
 }
 
-#work-experience, #professional-service {
+/*
+#publications {
     page-break-before: always;
 }
+*/

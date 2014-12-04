@@ -42,8 +42,6 @@ Jonas Wagner
 <div class="clearfix"></div>
 </div>
 
-- **What distinguishes me:** The will to never stop learning
-
 
 Research Interests
 ------------------
@@ -52,27 +50,31 @@ My mission is to create automated program analysis techniques that help
 developers construct better software with ease. I prototype these techniques
 into tools and evaluate them on real-world software systems.
 
+My work lies at the intersection of verification, programming languages, and
+operating systems. It is currently focused on ASAP, a technique to enforce
+security properties (e.g., the absence of buffer overflows) at runtime with
+high performance.
 
 Education
 ---------
 
-### 2011 – present: PhD in Computer Science
+### PhD in Computer Science, EPFL: 2011 – present 
 
 [dslab.epfl.ch](http://dslab.epfl.ch/)
 Dependable Systems Lab, EPFL, Lausanne\
 Under the direction of Prof. George Candea
 
-### 2008 – 2011: Master EPFL in Communication Systems
+### Master in Communication Systems, EPFL: 2008 - 2011
 
 [ssc.epfl.ch/master](http://ssc.epfl.ch/master)
-Swiss Federal Institute of Technology (EPFL), Lausanne\
-Grade point average: 5.87 out of 6
+School of Computer and Communication Systems, EPFL, Lausanne\
+Specialization in Internet Computing. Master thesis in industry, on automatic
+detection of bad performance in VPN tunnels.
 
-### 2005 – 2008: Bachelor EPFL in Communication Systems
+### Bachelor in Communication Systems, EPFL: 2005 - 2008
 
 [ssc.epfl.ch/bachelor](http://ssc.epfl.ch/bachelor)
-Two years at EPFL, Lausanne, and one year at NTU, Singapore\
-Grade point average: 5.77 out of 6
+Two years at EPFL, Lausanne, and one year at NTU, Singapore
 
 
 Projects
@@ -96,32 +98,6 @@ fast execution, and introduces a new cost model to generate code that is
 adapted to the need of verification tools.
 
 
-Work experience
----------------
-
-### Sept. 2010 to March 2011: Master Thesis at Open Systems
-
-[www.open.ch](http://www.open.ch/)
-Performance measurement of VPN links and automatic detection of performance
-degradation. This project combined practical application of Perl, C and Unix
-with engineering and a solid mathematical foundation. The thesis was awarded
-the maximum grade and was important for upcoming network monitoring efforts at
-Open Systems.
-
-### Feb. to Aug. 2009: Internship at MadeinLocal
-
-[www.madeinlocal.com](http://www.madeinlocal.com/)
-Web development for MadeinLocal.com, the next generation local guide powered by
-social networking. In a dynamic start-up team, I assumed responsibility for
-developing business logic in Ruby on Rails and JavaScript, and connections to
-external sites such as Facebook.
-
-### June to Sept. 2008: Internship at Bucher+Suter
-
-[www.bucher-suter.com](http://www.bucher-suter.com/)
-I worked as a software developer on various projects using Java, C++ and PHP in
-a Cisco Contact Center environment.
-
 Publications
 ------------
 
@@ -137,8 +113,35 @@ Poster presented at the 11^th^ USENIX Symposium on Operating Systems Design and 
 Jonas Wagner, Volodymyr Kuznetsov, and George Candea\
 14^th^ Workshop on Hot Topics in Operating Systems (HotOS), 2013
 
-Teaching
---------
+
+Work experience
+---------------
+
+### Master Thesis at Open Systems: Sept. 2010 to March 2011
+
+[www.open.ch](http://www.open.ch/)
+Performance measurement of VPN links and automatic detection of performance
+degradation. This project combined practical application of Perl, C and Unix
+with engineering and a solid mathematical foundation. The thesis was awarded
+the maximum grade and was important for upcoming network monitoring efforts at
+Open Systems.
+
+### Internship at MadeinLocal: Feb. to Aug. 2009
+
+[www.madeinlocal.com](http://www.madeinlocal.com/)
+Web development for MadeinLocal.com, the next generation local guide powered by
+social networking. In a dynamic start-up team, I assumed responsibility for
+developing business logic in Ruby on Rails and JavaScript, and connections to
+external sites such as Facebook.
+
+### Internship at Bucher+Suter: June to Sept. 2008
+
+[www.bucher-suter.com](http://www.bucher-suter.com/)
+I worked as a software developer on various projects using Java, C++ and PHP in
+a Cisco Contact Center environment.
+
+Teaching and Professional Service
+---------------------------------
 
 ### Teaching Assistant
 
@@ -151,13 +154,10 @@ Teaching
 ### Project Supervisor
 
 - **Summer@EPFL Internship** by Azqa Nadeem, 2014
-- **Moodle accessibility checker plugin.** 
+- **Moodle Accessibility Checker Plugin.** 
   1^st^ year master semester project by Quentin Cosendey, 2014
-- **LibABC: A C library for software analysis.**
+- **LibABC: A C Library for Software Analysis.**
   3^rd^ year bachelor semester project by Florian Vessaz, 2013
-
-Professional Service
---------------------
 
 ### External Reviewer
 
@@ -165,6 +165,7 @@ Professional Service
 - **EuroSys:**  European Conference on Computer Systems, 2014 and 2012
 - **CIDR:** Conference on Innovative Data Systems Research, 2013
 - **SOCC:** ACM Symposium on Cloud Computing, 2012
+
 
 Miscellaneous
 -------------
