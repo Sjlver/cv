@@ -26,7 +26,7 @@ Jonas Wagner
 -------- -----------------------------------------------------------------------
    Links [people.epfl.ch/jonas.wagner](http://people.epfl.ch/jonas.wagner)\
          [github.com/Sjlver](https://github.com/Sjlver)\
-         [codeforces.com/profile/Sjlver](http://codeforces.com/profile/Sjlver)
+         [blog.purpureus.net](http://blog.purpureus.net/)
  
    Email <jonas.wagner@epfl.ch>
  
@@ -101,11 +101,11 @@ adapted to the need of verification tools.
 Publications
 ------------
 
-### ASAP: High Security at Low Overhead
+### High System-Code Security with Low Overhead
 
 [dslab.epfl.ch/proj/asap](http://dslab.epfl.ch/proj/asap)
-Jonas Wagner, Volodymyr Kuznetsov, Johannes Kinder, Azqa Nadeem, and George Candea\
-Poster presented at the 11^th^ USENIX Symposium on Operating Systems Design and Implementation (OSDI Poster), 2014
+Jonas Wagner, Volodymyr Kuznetsov, George Candea, and Johannes Kinder\
+36^th^ IEEE Symposium on Security and Privacy (S&P), 2015
 
 ### <span style="font-variant: small-caps;">-Overify</span>: Optimizing Programs for Fast Verification
 
@@ -117,9 +117,15 @@ Jonas Wagner, Volodymyr Kuznetsov, and George Candea\
 Work experience
 ---------------
 
+### Internship at Google: May to August 2015
+
+[www.google.com](https://www.google.com/)
+Static analysis of Android apps. Using techniques from compilers to abstract
+interpretation, I am scanning applications for security vulnerabilities.
+
 ### Master Thesis at Open Systems: Sept. 2010 to March 2011
 
-[www.open.ch](http://www.open.ch/)
+[www.open.ch](https://www.open.ch/)
 Performance measurement of VPN links and automatic detection of performance
 degradation. This project combined practical application of Perl, C and Unix
 with engineering and a solid mathematical foundation. The thesis was awarded
@@ -134,11 +140,6 @@ social networking. In a dynamic start-up team, I assumed responsibility for
 developing business logic in Ruby on Rails and JavaScript, and connections to
 external sites such as Facebook.
 
-### Internship at Bucher+Suter: June to Sept. 2008
-
-[www.bucher-suter.com](http://www.bucher-suter.com/)
-I worked as a software developer on various projects using Java, C++ and PHP in
-a Cisco Contact Center environment.
 
 Teaching and Professional Service
 ---------------------------------
