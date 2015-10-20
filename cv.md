@@ -121,10 +121,9 @@ Work experience
 
 [www.google.com](https://www.google.com/)
 I built tools to systematically scan all Android apps for security
-vulnerabilities related to SSL connections. The project used program analysis
-and abstract interpretation techniques in a distributed cloud setup. It is now
-running in production at Google and warns app developers whenever a new
-vulnerability is detected.
+vulnerabilities. The project used program analysis and abstract interpretation
+techniques in a distributed cloud setup. It is now running in production at
+Google and warns app developers whenever a new vulnerability is detected.
 
 ### Master Thesis at Open Systems: Sept. 2010 to March 2011
 
