@@ -1,7 +1,7 @@
 ---
 title:  Jonas Wagner's Curriculum Vitae
 author: Jonas Wagner
-date: November 20, 2014
+date: May 11, 2016
 lang: en
 ---
 
@@ -11,14 +11,14 @@ Jonas Wagner
 <div id="contacts">
 <div id="address">
 
---------- ----------------------
+--------- ----------------------------------------------------------------------
   Address Jonas Wagner\
-          EPFL IC IIF DSLAB\
+          EPFL IC IINFCOM DSLAB\
           INN 321, Station 14\
           1015 Lausanne\
           Switzerland
 
---------- ----------------------
+--------- ----------------------------------------------------------------------
 
 </div>
 <div id="on-the-net">
@@ -148,7 +148,7 @@ Teaching and Professional Service
 
 ### Teaching Assistant
 
-- **Software Engineering:** 2014, 2013, 2012
+- **Software Engineering:** 2015, 2014, 2013, 2012
 - **Calculus:** 2014
 - **Introduction to Programming:** 2012, 2008, 2006
 - **Information Theory and Coding:** 2010
@@ -162,13 +162,16 @@ Teaching and Professional Service
 - **LibABC: A C Library for Software Analysis.**
   3^rd^ year bachelor semester project by Florian Vessaz, 2013
 
+### Shadow Program Committee Member
+
+- **EuroSys:** European Conference on Computer Systems, 2016
+
 ### External Reviewer
 
 - **OSDI:** USENIX Symposium on Operating Systems Design and Implementation, 2014
 - **EuroSys:**  European Conference on Computer Systems, 2014 and 2012
 - **CIDR:** Conference on Innovative Data Systems Research, 2013
 - **SOCC:** ACM Symposium on Cloud Computing, 2012
-
 
 Miscellaneous
 -------------
@@ -186,13 +189,6 @@ Miscellaneous
 I am a founding member of PolyProg, a student association at EPFL that promotes
 algorithmic and programming skills. I've contributed to the organization of
 numerous programming contests as well as related seminars and trainings.
-
-### Cevi: Scouting Activities for Kids
-
-[ceviregionbern.ch](http://ceviregionbern.ch/)
-As leader of a scouting group, I organize activities for children in the nature
-together with a team of fellow young volunteers. Events range from an afternoon
-in the forest to one-week scouting camps.
 
 ### Personal Situation
 
