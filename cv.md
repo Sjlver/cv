@@ -1,7 +1,7 @@
 ---
 title:  Jonas Wagner's Curriculum Vitae
 author: Jonas Wagner
-date: May 11, 2016
+date: August 10, 2016
 lang: en
 ---
 
@@ -46,14 +46,16 @@ Jonas Wagner
 Research Interests
 ------------------
 
-My mission is to create automated program analysis techniques that help
-developers construct better software with ease. I prototype these techniques
-into tools and evaluate them on real-world software systems.
+My mission is to create automated program analysis and transformation techniques
+that help developers construct better software with ease. I prototype these
+techniques into tools and evaluate them on real-world software systems.
 
 My work lies at the intersection of verification, programming languages, and
-operating systems. It is currently focused on ASAP, a technique to enforce
-security properties (e.g., the absence of buffer overflows) at runtime with
-high performance.
+operating systems. It recognizes that program transformations are always
+trade-offs. They affect a program's speed, security, ease of verification, and
+reliability. Tools such as ASAP give developers an automated and precise way to
+obtain the most favorable trade-off for their particular use-case.
+
 
 Education
 ---------
@@ -62,7 +64,8 @@ Education
 
 [dslab.epfl.ch](http://dslab.epfl.ch/)
 Dependable Systems Lab, EPFL, Lausanne\
-Under the direction of Prof. George Candea
+Under the direction of Prof. George Candea\
+Expected graduation in March 2017
 
 ### Master in Communication Systems, EPFL: 2008 - 2011
 
@@ -77,35 +80,19 @@ detection of bad performance in VPN tunnels.
 Two years at EPFL, Lausanne, and one year at NTU, Singapore
 
 
-Projects
---------
-
-### ASAP
-
-[dslab.epfl.ch/proj/asap](http://dslab.epfl.ch/proj/asap)
-ASAP is an automated approach and tool to instrument programs subject to
-performance constraints. It combines profiling and compiler techniques to
-generate programs that are as safe as possible, while satisfying the user's
-overhead budget.
-
-### <span style="font-variant: small-caps;">-Overify</span>
-
-[dslab.epfl.ch/pubs/overify.pdf](http://dslab.epfl.ch/pubs/overify.pdf)
-<span style="font-variant: small-caps;">-Overify</span> is a compiler flag that
-speeds up software verification by up to 95×. It is based on the insight that
-compiling for verification requires different optimizations than compiling for
-fast execution, and introduces a new cost model to generate code that is
-adapted to the need of verification tools.
-
-
 Publications
 ------------
 
-### High System-Code Security with Low Overhead
+### ASAP: High System-Code Security with Low Overhead
 
 [dslab.epfl.ch/proj/asap](http://dslab.epfl.ch/proj/asap)
 Jonas Wagner, Volodymyr Kuznetsov, George Candea, and Johannes Kinder\
 36^th^ IEEE Symposium on Security and Privacy (S&P), 2015
+
+ASAP is an automated approach and tool to instrument programs subject to
+performance constraints. It combines profiling and compiler techniques to
+generate programs that are as safe as possible, while satisfying the user's
+overhead budget.
 
 ### <span style="font-variant: small-caps;">-Overify</span>: Optimizing Programs for Fast Verification
 
@@ -113,9 +100,25 @@ Jonas Wagner, Volodymyr Kuznetsov, George Candea, and Johannes Kinder\
 Jonas Wagner, Volodymyr Kuznetsov, and George Candea\
 14^th^ Workshop on Hot Topics in Operating Systems (HotOS), 2013
 
+<span style="font-variant: small-caps;">-Overify</span> is a compiler flag that
+speeds up software verification by up to 95×. It is based on the insight that
+compiling for verification requires different optimizations than compiling for
+fast execution, and introduces a new cost model to generate code that is
+adapted to the need of verification tools.
+
 
 Work experience
 ---------------
+
+### Cyber Grand Challenge Finalist: February to August 2016
+
+[www.cybergrandchallenge.com](https://www.cybergrandchallenge.com/)
+I joined team CodeJitsu at UC Berkeley, led by Prof. Dawn Song, to participate
+in DARPA's Cyber Grand Challenge. In this first ever all-machine hacking
+tournament, I worked on a system to automatically disassemble, analyze and
+instrument X86 binaries. Instrumentation protects the binaries against software
+vulnerabilities, while satisfying strict limits on memory consumption and
+execution time overhead. Team CodeJitsu ranked fifth out of seven finalists.
 
 ### Internship at Google: May to August 2015
 
