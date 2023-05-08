@@ -60,12 +60,13 @@ obtain the most favorable trade-off for their particular use-case.
 Education
 ---------
 
-### PhD in Computer Science, EPFL: 2011 – present 
+### PhD in Computer Science, EPFL: 2011 – 2017
 
 [dslab.epfl.ch](http://dslab.epfl.ch/)
 Dependable Systems Lab, EPFL, Lausanne\
 Under the direction of Prof. George Candea\
-Expected graduation in March 2017
+Thesis title: Elastic Program Transformations: Automatically Optimizing the
+Reliability/Performance Trade-Off in Systems Software
 
 ### Master in Communication Systems, EPFL: 2008 - 2011
 
